@@ -36,7 +36,7 @@ $ git clone https://github.com/connext/nxtp-router-docker-compose.git
 
 ### Environment Config
 
-Create a `.env` file in the root directory of the repository based on the `env.example` file.
+Create a `.env` file in the root directory of the repository based on the `.env.example` file.
 
 Modify the following environment variables:
 
